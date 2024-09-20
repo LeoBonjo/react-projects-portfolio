@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="hero-title">
           <h1>Leo's Portfolio</h1>
           <p>
-            Hello, world! Hi! 💡 Welcome to my portfolio. I'm here to help you build innovative web applications by leveraging my programming expertise and collaborative problem-solving skills. I'd love to contribute to your organization's goal of making the world a better place!
+            Hello, world!💡 Welcome to my portfolio. I'm here to help you build innovative web applications by leveraging my programming expertise and collaborative problem-solving skills. I'd love to contribute to your organization's goal of making the world a better place!
           </p>
         </div>
         <div className="img-container">
