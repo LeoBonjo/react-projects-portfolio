@@ -5,11 +5,9 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Contentful CMS</h1>
+          <h1>Leo's Portfolio</h1>
           <p>
-            Mixtape farm-to-table bitters, chartreuse four dollar toast normcore
-            organic you probably haven't heard of them schlitz echo park hashtag
-            next level.
+            Hello, world! Hi! 💡 Welcome to my portfolio. I'm here to help you build innovative web applications by leveraging my programming expertise and collaborative problem-solving skills. I'd love to contribute to your organization's goal of making the world a better place!
           </p>
         </div>
         <div className="img-container">
